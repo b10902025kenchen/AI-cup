@@ -1,5 +1,5 @@
 """
-此檔為新增feature的第二個檔案，要2個feature，其一為實付金額是否等於消費地金額，其二為實付金額是否等於0，皆為類別型資料
+此檔為新增feature的第二個檔案，要新增2個features，其一為實付金額是否等於消費地金額，其二為實付金額是否等於0，皆為類別型資料
 讀入兩個檔案train_time.csv與test_time.csv，輸出新的檔案train_time_myf.csv與test_time_myf.csv
 """
 import pandas as pd
